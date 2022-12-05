@@ -7,3 +7,22 @@
 
 ## About Me
 My goal is to gain knowledge in the field of front-end development.
+
+## Skills
+- C
+- Git/GitHub
+
+## Code
+```
+#include <stdio.h> 
+int main(void) {
+  int a, b, c, res;
+
+  scanf("%d%d%d", &a, &b, &c);
+
+  res = a + b;
+  res = res - c;
+
+  printf("%d\n", res);
+  return 0;
+}
