@@ -27,3 +27,16 @@ int main(void) {
   return 0;
 }
 ```
+
+## Work experience
+- Nothing yet...
+
+## Education
+- State University of Land Management / Management
+- School21(SBER):
+  * C (Qualifying intensive 26 days)
+
+## Languages
+- **Russian** - native speaker.
+- **Armenian** - native speaker.
+- **English level** - A1.
