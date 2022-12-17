@@ -200,3 +200,39 @@ section {
     display: flex;
     justify-content: center;
   }
+
+  /* footer */
+.footer {
+    width: 1024px;
+  }
+  
+  .container.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .info {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 49px;
+  }
+  .github {
+    width: 120px;
+    height: 49px;
+  }
+  
+  .github_logo {
+    width: 45px;
+    height: 45px;
+  }
+  
+  .rss_logo {
+    width: 120px;
+    height: 45px;
+  }
